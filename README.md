@@ -46,7 +46,7 @@ High-level approach:
 
 ---
 
-## 🗂 Report Pages (Structure)
+## Report Pages (Structure)
 
 ### 1) **Onboarding**
 A short “how to use this report” page (≈5 min read):
@@ -127,10 +127,3 @@ This dashboard is intended for **analytical comparison**, not regulatory or audi
 Data Analyst | Power BI | SQL | Analytics Storytelling  
 https://www.linkedin.com/in/dhanush-chandar-sivakumar/
 ---
-
-## 📷 Screenshots
-
-> Add screenshots/gifs here (recommended):
-- Overview page
-- Quarterly trend page
-- Deep dive page (map + scatter)
